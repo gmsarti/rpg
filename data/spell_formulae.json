@@ -1,0 +1,16 @@
+{
+  "spell_formulae": [
+    "{Element} {Form}",
+    "{Effect} {Form}",
+    "{Effect} {Element}",
+    "The {Quality} {Element} {Form}",
+    "The {Quality} {Effect} {Form}",
+    "The {Quality} {Effect} {Element}",
+    "{Wizard_name}'s {Element} {Form}",
+    "{Wizard_name}'s {Effect} {Form}",
+    "{Wizard_name}'s {Effect} {Element}",
+    "{Wizard_name}'s {Quality} {Element} {Form}",
+    "{Wizard_name}'s {Quality} {Effect} {Form}",
+    "{Wizard_name}'s {Quality} {Effect} {Element}"
+  ]
+}

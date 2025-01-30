@@ -1,0 +1,15 @@
+{
+  "npc_reactions": [
+    "Kill the PCs",
+    "Injure or capture the PCs",
+    "Harass or rob the PCs",
+    "Insult, threaten, or command the PCs",
+    "Avoid the PCs",
+    "Ignore the PCs",
+    "Follow or observe the PCs",
+    "Greet or question the PCs",
+    "Share information with the PCs",
+    "Perform minor favors for the PCs",
+    "Ask to join the PCs' party"
+  ]
+}
